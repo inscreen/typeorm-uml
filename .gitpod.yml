@@ -1,0 +1,11 @@
+tasks:
+  - init: npm install && npm run build
+    command: ''
+
+gitConfig:
+  alias.co: checkout
+  alias.ci: commit
+  alias.amend: 'commit --amend --reset-author --no-edit'
+  core.autocrlf: input
+  core.whitespace: blank-at-eol,blank-at-eof,indent-with-tab
+  pull.rebase: 'false'
