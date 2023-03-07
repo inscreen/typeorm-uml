@@ -1,6 +1,6 @@
 {
-	"name": "typeorm-uml",
-	"version": "1.6.5",
+	"name": "@inscreen/typeorm-uml",
+	"version": "1.6.5-is1",
 	"description": "Generates UML diagrams for TypeORM projects",
 	"author": "Eugene Manuilov <eugene.manuilov@gmail.com>",
 	"license": "MIT",
